@@ -1,2 +1,2 @@
 # momogram
-A simple messenger with python
+A simple multithreaded messenger with python with ability to send file and chat at the same time.
